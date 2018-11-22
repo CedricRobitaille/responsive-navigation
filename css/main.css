@@ -21,6 +21,10 @@ body {
   margin: 0;
 }
 
+nav li {
+  text-align: left;
+}
+
 header {
   padding: .5rem 0;
   background-color: #ccc;
